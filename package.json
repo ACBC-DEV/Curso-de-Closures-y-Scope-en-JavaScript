@@ -1,0 +1,20 @@
+{
+  "name": "curso-de-closures-y-scope-en-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CAMILOBLANDON/Curso-de-Closures-y-Scope-en-JavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CAMILOBLANDON/Curso-de-Closures-y-Scope-en-JavaScript/issues"
+  },
+  "homepage": "https://github.com/CAMILOBLANDON/Curso-de-Closures-y-Scope-en-JavaScript#readme"
+}
